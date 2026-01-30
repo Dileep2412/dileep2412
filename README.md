@@ -1,5 +1,22 @@
 # 💫 About Me:
-🌟 Hi there! I'm Dileep 👋<br><br>A passionate Developer & Problem Solver who loves building cool things, automating workflows, and improving everyday efficiency with code.<br>I’m currently on a mission to level-up my DSA, JavaScript & Web Development skills — one project at a time!<br>🚀 About Me<br><🔭 I’m currently working on: JavaScript Projects + DSA (LeetCode)<br>🤝 I’m looking to collaborate on: Open-source & web dev projects<br>🧠 I’m currently learning: DSA, HTML/CSS, JavaScript, Automation tools<br>💬 Ask me about: Web dev, GitHub setup, DSA approach, automation ideas<br>🌱 I love: Learning something new daily & building side-projects<br>⚡ Fun fact: I debug faster when music is playing 🎧<br>🎯 My Goals<br><br>Crack tech placements with strong DSA<br>Build real-world projects that make life easier<br>Become a full-stack developer<br>
+🌟 Hi there! I'm Dileep 👋
+
+A passionate Developer & Problem Solver who loves building cool things, automating workflows, and improving everyday efficiency with code.  
+I’m currently on a mission to level-up my **DSA, JavaScript & MERN Stack development skills** — one project at a time!
+
+🚀 About Me  
+🔭 I’m currently working on: **MERN Stack Projects (Node.js, Express, MongoDB) + DSA (LeetCode)**  
+🤝 I’m looking to collaborate on: **MERN stack, backend & full-stack web projects**  
+🧠 I’m currently learning: **Backend development (Node.js, Express), MongoDB, REST APIs, React & DSA**  
+💬 Ask me about: **Backend APIs, MERN stack, GitHub setup, DSA approach, automation ideas**  
+🌱 I love: Learning something new daily & building real-world side projects  
+⚡ Fun fact: I debug faster when music is playing 🎧  
+
+🎯 My Goals  
+• Crack tech placements with strong **DSA + Backend skills**  
+• Build **scalable real-world MERN applications**  
+• Become a **full-stack MERN developer**
+
 
 
 # 💻 Tech Stack:

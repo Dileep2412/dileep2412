@@ -1,57 +1,46 @@
-# About Me
+# 💫 About Me
 
-Hi, I'm Dileep Parihar  
+Hi, I'm Dileep Parihar 👋
 
-A passionate Full Stack Developer (MERN) and problem solver, focused on building scalable and efficient web applications. I enjoy turning ideas into real-world projects and continuously improving my development skills.
+A passionate Full Stack Developer (MERN) and problem solver who enjoys building scalable web applications and solving real-world problems with code. I am currently focused on improving my DSA, JavaScript, and MERN stack skills through projects and continuous learning. 🚀
 
-## Professional Summary
+# 💻 Tech Stack
 
-- Currently working on: MERN Stack projects and Data Structures & Algorithms (LeetCode)
-- Skilled in: Java, JavaScript, Backend Development, REST APIs
-- Learning: Advanced Backend (Node.js, Express), MongoDB, React
-- Interests: Backend systems, API design, and real-world problem solving
-- Open to: Internship and collaboration opportunities
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Goals
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Crack technical placements with strong DSA and backend skills  
-- Build scalable and production-level MERN applications  
-- Grow into a proficient Full Stack Developer  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-# Tech Stack
+# 📊 GitHub Stats
 
-### Backend
-Node.js, Express.js, MongoDB  
+![](https://github-readme-stats.vercel.app/api?username=Dileep2412&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-### Frontend
-React.js, JavaScript, HTML, CSS  
+![](https://nirzak-streak-stats.vercel.app/?user=Dileep2412&theme=tokyonight&hide_border=true)
 
-### Tools & Platforms
-Git, GitHub, Postman, Vercel, Netlify  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2412&theme=tokyonight&hide_border=true&layout=compact)
 
----
+# 🏆 GitHub Trophies
 
-# GitHub Stats
+![](https://github-profile-trophy.vercel.app/?username=Dileep2412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
-![](https://github-readme-stats.vercel.app/api?username=Dileep2412&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dileep2412&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2412&theme=dark&hide_border=false&layout=compact)
+# 🌐 Connect With Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 
-# Achievements
-
-- Consistently building real-world development projects  
-- Actively practicing Data Structures & Algorithms  
-- Strong focus on backend development and system design fundamentals  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
-# Contact
-
-- Email: deelipparihar2405@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/dileep-parihar-73936730a/
-
----
+![](https://visitcount.itsvg.in/api?id=Dileep2412&icon=5&color=6)

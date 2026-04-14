@@ -1,8 +1,11 @@
 # 💫 About Me
 
-Hi, I'm Dileep Parihar 👋
+Hi, I'm Dileep Parihar 👋  
 
-A passionate Full Stack Developer (MERN) and problem solver who enjoys building scalable web applications and solving real-world problems with code. I am currently focused on improving my DSA, JavaScript, and MERN stack skills through projects and continuous learning. 🚀
+Full Stack Developer (MERN) focused on building scalable web applications and solving real-world problems.  
+Skilled in Java, JavaScript, and Backend Development with a strong interest in Data Structures & Algorithms.  
+Currently learning and building projects to grow as a professional developer.  
+Open to internship opportunities.
 
 # 💻 Tech Stack
 
@@ -20,27 +23,17 @@ A passionate Full Stack Developer (MERN) and problem solver who enjoys building 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dileep2412&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Dileep2412&theme=tokyonight&hide_border=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Dileep2412&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2412&theme=tokyonight&hide_border=true&layout=compact)
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Dileep2412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dileep-parihar-73936730a/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
----
-
-![](https://visitcount.itsvg.in/api?id=Dileep2412&icon=5&color=6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deelipparihar2405@gmail.com)

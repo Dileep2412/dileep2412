@@ -1,6 +1,6 @@
 # Hi there, I'm Dileep Parihar 👋
 
-🚀 **Full Stack Developer (MERN)** | Java & DSA Enthusiast | Open to Internships
+**Full Stack Developer (MERN)** | Java & DSA Enthusiast | Open to Internships
 
 I'm a passionate developer focused on building **scalable, real-world web applications** with clean code and thoughtful design. I enjoy solving problems — whether it's a complex algorithm or a tricky UI bug.
 

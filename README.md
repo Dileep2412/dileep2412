@@ -4,7 +4,7 @@
 
 I'm a passionate developer focused on building **scalable, real-world web applications** with clean code and thoughtful design. I enjoy solving problems — whether it's a complex algorithm or a tricky UI bug.
 
-Currently deepening my skills in **Backend Development** and **Data Structures & Algorithms** while actively building projects that matter.
+Currently deepening my skills in **Backend Development** and **Data Structure & Algorithms** while actively building projects that matter.
 
 ---
 

@@ -1,5 +1,4 @@
 # Hi there, I'm Dileep Parihar 👋
-
 **Full Stack Developer (MERN)** | Java & DSA Enthusiast | Open to Internships
 
 I'm a passionate developer focused on building **scalable, real-world web applications** with clean code and thoughtful design. I enjoy solving problems — whether it's a complex algorithm or a tricky UI bug.
@@ -9,7 +8,6 @@ Currently deepening my skills in **Backend Development** and **Data Structure & 
 ---
 
 ## 💫 About Me
-
 - 🔭 Currently building full-stack projects with the **MERN stack**
 - 🌱 Learning **DSA with Java** and backend system design
 - 💡 Love turning ideas into functional, user-friendly products
@@ -24,6 +22,7 @@ Currently deepening my skills in **Backend Development** and **Data Structure & 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
@@ -49,9 +48,10 @@ Currently deepening my skills in **Backend Development** and **Data Structure & 
 
 | Project | Description | Live |
 |---|---|---|
+| 🏥 **DoctorAtHome** | Home healthcare platform — React, Supabase, Tailwind, Vercel, Resend | [🔗 Live](https://doctorathome247.com) |
+| 📧 **Mail.ai** | AI-powered mail assistant built with LangChain & Mistral AI | [🔗 Live](#) |
 | 📊 **Productivity Dashboard** | Task manager & schedule planner built with HTML, CSS, JS | [🔗 Live](https://productivity-dashboard-gray.vercel.app/) |
 | 🌤️ **Weather App** | Real-time weather via OpenWeatherMap API | [🔗 Live](https://dileep2412.github.io/Weather-app/) |
-| 🧑‍💻 **Portfolio Website** | Personal portfolio showcasing projects & skills | [🔗 Live](https://dileep-portfolio1224.netlify.app/) |
 
 ---
 
